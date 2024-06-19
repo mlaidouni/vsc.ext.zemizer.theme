@@ -1,4 +1,4 @@
-# zemizer-theme README <!-- omit in toc -->
+# ZeMizer Theme <!-- omit in toc -->
 
 A ZeMizer theme for VS Code, based on the [GitHub Theme](https://github.com/primer/github-vscode-theme).
 
