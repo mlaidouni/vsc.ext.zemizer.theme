@@ -20,7 +20,7 @@
       {
         "label": "ZeMizer Dark Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-gray-color-theme.jsonc"
+        "path": "themes/dark-gray-color-theme.json"
       }
     ]
   },
