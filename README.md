@@ -1,2 +1,3 @@
-# vsc.ext.zemizer.theme
-VS Code theme extension 
+# zemizer-theme README
+
+A ZeMizer theme for VS Code, based on the [GitHub Theme](https://github.com/primer/github-vscode-theme).

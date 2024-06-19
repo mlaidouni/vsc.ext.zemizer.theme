@@ -1,0 +1,43 @@
+{
+  "name": "zemizer-theme",
+  "displayName": "ZeMizer Theme",
+  "publisher": "ZeMizer",
+  "description": "ZeMizer theme for VS Code.",
+  "author": {
+    "name": "ZeKmzx"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "pricing": "Free",
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZeMizer Dark Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-gray-color-theme.jsonc"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlaidouni/helloworld/issues",
+    "email": "kmzx@zemizer.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlaidouni/vsc.ext.zemizer.theme.git"
+  },
+  "homepage": "https://github.com/mlaidouni/vsc.ext.zemizer.theme/blob/master/zehelloworld/README.md",
+  "keywords": [
+    "zemizer"
+  ]
+}
