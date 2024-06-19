@@ -29,14 +29,14 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mlaidouni/helloworld/issues",
+    "url": "https://github.com/mlaidouni/vsc.ext.zemizer.theme/issues",
     "email": "kmzx@zemizer.com"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/mlaidouni/vsc.ext.zemizer.theme.git"
   },
-  "homepage": "https://github.com/mlaidouni/vsc.ext.zemizer.theme/blob/master/zehelloworld/README.md",
+  "homepage": "https://github.com/mlaidouni/vsc.ext.zemizer.theme/blob/master/README.md",
   "keywords": [
     "zemizer"
   ]
