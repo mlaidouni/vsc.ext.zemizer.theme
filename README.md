@@ -1,6 +1,13 @@
 # ZeMizer Theme <!-- omit in toc -->
 
-A ZeMizer theme for VS Code, based on the [GitHub Theme](https://github.com/primer/github-vscode-theme).
+A ZeMizer theme for VS Code, based on the [GitHub Theme][1].
+
+![editor](images/editor.png)
+
+![terminal](images/terminal.png)
+
+> [!NOTE]
+> In the previous images, the font used is the [Nerd Font _Fira Code_](https://www.nerdfonts.com/font-downloads), and the terminal prompt is [_Starship_](https://starship.rs/).
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -12,13 +19,17 @@ A ZeMizer theme for VS Code, based on the [GitHub Theme](https://github.com/prim
 
 1. Open the panel with `Ctrl+P` or `Cmd+P`.
 2. Type `Install from VSIX` and press `Enter`.
-3. Select the [zemizer-theme-0.0.1.vsix](zemizer-theme-0.0.1.vsix) file.
+3. Select the [zemizer-theme.vsix](zemizer-theme.vsix) file.
 
 ## Features
 
-- `ZeMizer Dark Gray` : a dark theme with a focus on gray and blue colors.
+- `ZeMizer Dark Gray` : a dark theme
+  - editor: focus on gray and blue colors (based on `GitHub Dark` theme from [GitHub Theme][1]).
+  - terminal: focus on purple, green cyan colors.
 
 ## Credits
 
 - icon: [Discotools.xyz (discordicon.com)](https://www.discordicon.com/icons-editor)
-- theme: [GitHub Theme](https://github.com/primer/github-vscode-theme)
+- theme: [GitHub Theme][1]
+
+[1]: https://github.com/primer/github-vscode-theme
