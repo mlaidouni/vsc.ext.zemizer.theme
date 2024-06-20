@@ -24,10 +24,6 @@
       }
     ]
   },
-  "galleryBanner": {
-    "theme": "dark",
-    "color": "#24292e"
-  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mlaidouni/vsc.ext.zemizer.theme/issues",
