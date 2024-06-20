@@ -25,7 +25,8 @@
     ]
   },
   "galleryBanner": {
-    "theme": "dark"
+    "theme": "dark",
+    "color": "#24292e"
   },
   "license": "MIT",
   "bugs": {
