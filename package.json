@@ -8,10 +8,17 @@
   },
   "version": "0.0.2",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.43.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "zemizer",
+    "theme",
+    "dark",
+    "gray",
+    "github"
   ],
   "icon": "images/icon.png",
   "pricing": "Free",
@@ -26,15 +33,11 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mlaidouni/vsc.ext.zemizer.theme/issues",
-    "email": "kmzx@zemizer.com"
+    "url": "https://github.com/mlaidouni/vsc.ext.zemizer.theme/issues"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/mlaidouni/vsc.ext.zemizer.theme.git"
   },
-  "homepage": "https://github.com/mlaidouni/vsc.ext.zemizer.theme/blob/master/README.md",
-  "keywords": [
-    "zemizer"
-  ]
+  "homepage": "https://github.com/mlaidouni/vsc.ext.zemizer.theme/blob/master/README.md"
 }
