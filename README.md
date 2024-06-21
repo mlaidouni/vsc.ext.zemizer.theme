@@ -25,7 +25,7 @@ A ZeMizer theme for VS Code, based on the [GitHub Theme][1].
 
 - `ZeMizer Dark Gray` : a dark theme
   - editor: focus on gray and blue colors (based on `GitHub Dark` theme from [GitHub Theme][1]).
-  - terminal: focus on purple, green cyan colors.
+  - terminal: focus on purple, green & cyan colors.
 
 ## Credits
 
